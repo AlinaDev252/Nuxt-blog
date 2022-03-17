@@ -4,6 +4,6 @@
 
 <script>
 export default {
-  layout: 'newLayout',
+  layout: 'users',
 }
 </script>
